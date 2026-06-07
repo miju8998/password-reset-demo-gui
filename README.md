@@ -21,3 +21,4 @@ Version 1 - GUI, password generation, SHA256 hashing, and validation.
 Version 2 - single-thread and multi-thread brute force implementation.
 Version 3 - performance logging, stop function, UML diagram, and final testing.
 Commit note: Version 2 confirms single-thread and multi-thread brute force functionality.
+Commit note: Version 3 confirms performance logging, stop function, UML and final testing.
